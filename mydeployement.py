@@ -1,14 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 30 22:24:03 2025
-
-@author: Harika
-"""
-
-#pip uninstall opencv-python
-#pip install opencv-python
-
-
 
 import cv2
 print(cv2.__version__)
